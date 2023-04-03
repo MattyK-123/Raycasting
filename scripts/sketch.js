@@ -1,5 +1,5 @@
 var wall = [];       /* Store static streak objects */
-var rayCount = 200;  /* Define the number of rays to be cast */
+var rayCount = 500;  /* Define the number of rays to be cast */
 var streakCount = 5; /* Define the number of static wall */
 
 function setup() {
